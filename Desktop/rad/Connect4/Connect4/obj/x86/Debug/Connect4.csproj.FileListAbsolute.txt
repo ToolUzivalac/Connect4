@@ -1,0 +1,8 @@
+C:\Users\Ucenik-SM-02\Desktop\rad\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\Ucenik-SM-02\Desktop\rad\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Ucenik-SM-02\Desktop\rad\Connect4\Connect4\obj\x86\Debug\Connect4.Form1.resources
+C:\Users\Ucenik-SM-02\Desktop\rad\Connect4\Connect4\obj\x86\Debug\Connect4.Properties.Resources.resources
+C:\Users\Ucenik-SM-02\Desktop\rad\Connect4\Connect4\obj\x86\Debug\Connect4.csproj.GenerateResource.Cache
+C:\Users\Ucenik-SM-02\Desktop\rad\Connect4\Connect4\obj\x86\Debug\Connect4.exe
+C:\Users\Ucenik-SM-02\Desktop\rad\Connect4\Connect4\obj\x86\Debug\Connect4.pdb
+C:\Users\Ucenik-SM-02\Desktop\rad\Connect4\Connect4\obj\x86\Debug\Connect4.Igra.resources
