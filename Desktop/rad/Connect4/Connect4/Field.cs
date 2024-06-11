@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Windows.Forms;
 
 namespace Connect4
 {
-    class Field : IGridElement
+    class Field : IGridElement, Button
     {
         public int Row { get; set; }
         public int Col { get; set; }
