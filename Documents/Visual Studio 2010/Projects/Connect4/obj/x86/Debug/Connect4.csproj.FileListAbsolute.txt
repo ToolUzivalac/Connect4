@@ -1,0 +1,3 @@
+C:\Users\Ucenik-SM-02\Documents\Visual Studio 2010\Projects\Connect4\obj\x86\Debug\Connect4.Form1.resources
+C:\Users\Ucenik-SM-02\Documents\Visual Studio 2010\Projects\Connect4\obj\x86\Debug\Connect4.Igra.resources
+C:\Users\Ucenik-SM-02\Documents\Visual Studio 2010\Projects\Connect4\obj\x86\Debug\Connect4.csproj.GenerateResource.Cache
